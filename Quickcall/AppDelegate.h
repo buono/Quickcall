@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-second tet
 @interface AppDelegate : UIResponder <UIApplicationDelegate> {
     UIWindow *window;
     NSString *name1, *name2, *name3, *name4;
