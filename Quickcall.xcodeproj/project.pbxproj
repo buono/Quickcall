@@ -26,16 +26,16 @@
 		D8003DBD189DAEAD00F8AAB7 /* gear.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DAA189DAEAD00F8AAB7 /* gear.png */; };
 		D8003DBE189DAEAD00F8AAB7 /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DAB189DAEAD00F8AAB7 /* home.png */; };
 		D8003DBF189DAEAD00F8AAB7 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DAC189DAEAD00F8AAB7 /* mail.png */; };
-		D8003DC0189DAEAD00F8AAB7 /* phone-main.gif in Resources */ = {isa = PBXBuildFile; fileRef = D8003DAD189DAEAD00F8AAB7 /* phone-main.gif */; };
 		D8003DC1189DAEAD00F8AAB7 /* phone.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DAE189DAEAD00F8AAB7 /* phone.png */; };
 		D8003DC2189DAEAD00F8AAB7 /* LineView.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB0189DAEAD00F8AAB7 /* LineView.m */; };
-		D8003DC3189DAEAD00F8AAB7 /* Item1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB2189DAEAD00F8AAB7 /* Item1ViewController.m */; };
-		D8003DC4189DAEAD00F8AAB7 /* Item2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB4189DAEAD00F8AAB7 /* Item2ViewController.m */; };
-		D8003DC5189DAEAD00F8AAB7 /* Item3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB6189DAEAD00F8AAB7 /* Item3ViewController.m */; };
-		D8003DC6189DAEAD00F8AAB7 /* Item4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB8189DAEAD00F8AAB7 /* Item4ViewController.m */; };
+		D8003DC3189DAEAD00F8AAB7 /* MailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB2189DAEAD00F8AAB7 /* MailViewController.m */; };
+		D8003DC6189DAEAD00F8AAB7 /* PhoneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8003DB8189DAEAD00F8AAB7 /* PhoneViewController.m */; };
 		D8003DCB189DAF0700F8AAB7 /* phone-icon-retina2.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DC8189DAF0700F8AAB7 /* phone-icon-retina2.png */; };
 		D8003DCC189DAF0700F8AAB7 /* phone-icon-app2.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DC9189DAF0700F8AAB7 /* phone-icon-app2.png */; };
 		D8003DCD189DAF0700F8AAB7 /* phone-icon-small2.png in Resources */ = {isa = PBXBuildFile; fileRef = D8003DCA189DAF0700F8AAB7 /* phone-icon-small2.png */; };
+		D88B0D0E18AE6B51005571C2 /* ContactGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D88B0D0D18AE6B51005571C2 /* ContactGroupViewController.m */; };
+		D88B0D7718B659AE005571C2 /* ContactToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = D88B0D7618B659AE005571C2 /* ContactToolbar.m */; };
+		D8A0B21418BD4F1C002F884E /* phone-main.png in Resources */ = {isa = PBXBuildFile; fileRef = D8A0B21318BD4F1C002F884E /* phone-main.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,22 +75,22 @@
 		D8003DAA189DAEAD00F8AAB7 /* gear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gear.png; sourceTree = "<group>"; };
 		D8003DAB189DAEAD00F8AAB7 /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		D8003DAC189DAEAD00F8AAB7 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
-		D8003DAD189DAEAD00F8AAB7 /* phone-main.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "phone-main.gif"; sourceTree = "<group>"; };
 		D8003DAE189DAEAD00F8AAB7 /* phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phone.png; sourceTree = "<group>"; };
 		D8003DAF189DAEAD00F8AAB7 /* LineView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineView.h; sourceTree = "<group>"; };
 		D8003DB0189DAEAD00F8AAB7 /* LineView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LineView.m; sourceTree = "<group>"; };
-		D8003DB1189DAEAD00F8AAB7 /* Item1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item1ViewController.h; sourceTree = "<group>"; };
-		D8003DB2189DAEAD00F8AAB7 /* Item1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item1ViewController.m; sourceTree = "<group>"; };
-		D8003DB3189DAEAD00F8AAB7 /* Item2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item2ViewController.h; sourceTree = "<group>"; };
-		D8003DB4189DAEAD00F8AAB7 /* Item2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item2ViewController.m; sourceTree = "<group>"; };
-		D8003DB5189DAEAD00F8AAB7 /* Item3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item3ViewController.h; sourceTree = "<group>"; };
-		D8003DB6189DAEAD00F8AAB7 /* Item3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item3ViewController.m; sourceTree = "<group>"; };
-		D8003DB7189DAEAD00F8AAB7 /* Item4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item4ViewController.h; sourceTree = "<group>"; };
-		D8003DB8189DAEAD00F8AAB7 /* Item4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item4ViewController.m; sourceTree = "<group>"; };
+		D8003DB1189DAEAD00F8AAB7 /* MailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MailViewController.h; sourceTree = "<group>"; };
+		D8003DB2189DAEAD00F8AAB7 /* MailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MailViewController.m; sourceTree = "<group>"; };
+		D8003DB7189DAEAD00F8AAB7 /* PhoneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhoneViewController.h; sourceTree = "<group>"; };
+		D8003DB8189DAEAD00F8AAB7 /* PhoneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneViewController.m; sourceTree = "<group>"; };
 		D8003DC7189DAEBC00F8AAB7 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		D8003DC8189DAF0700F8AAB7 /* phone-icon-retina2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone-icon-retina2.png"; sourceTree = "<group>"; };
 		D8003DC9189DAF0700F8AAB7 /* phone-icon-app2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone-icon-app2.png"; sourceTree = "<group>"; };
 		D8003DCA189DAF0700F8AAB7 /* phone-icon-small2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone-icon-small2.png"; sourceTree = "<group>"; };
+		D88B0D0C18AE6B51005571C2 /* ContactGroupViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactGroupViewController.h; sourceTree = "<group>"; };
+		D88B0D0D18AE6B51005571C2 /* ContactGroupViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactGroupViewController.m; sourceTree = "<group>"; };
+		D88B0D7518B659AE005571C2 /* ContactToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactToolbar.h; sourceTree = "<group>"; };
+		D88B0D7618B659AE005571C2 /* ContactToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactToolbar.m; sourceTree = "<group>"; };
+		D8A0B21318BD4F1C002F884E /* phone-main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone-main.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,23 +158,23 @@
 				D8003DA5189DAEAD00F8AAB7 /* SubViewController.m */,
 				D8003DA6189DAEAD00F8AAB7 /* SetViewController.h */,
 				D8003DA7189DAEAD00F8AAB7 /* SetViewController.m */,
+				D88B0D0C18AE6B51005571C2 /* ContactGroupViewController.h */,
+				D88B0D0D18AE6B51005571C2 /* ContactGroupViewController.m */,
+				D8003DB7189DAEAD00F8AAB7 /* PhoneViewController.h */,
+				D8003DB8189DAEAD00F8AAB7 /* PhoneViewController.m */,
+				D8003DB1189DAEAD00F8AAB7 /* MailViewController.h */,
+				D8003DB2189DAEAD00F8AAB7 /* MailViewController.m */,
 				D8003DA8189DAEAD00F8AAB7 /* IconCell.h */,
 				D8003DA9189DAEAD00F8AAB7 /* IconCell.m */,
+				D88B0D7518B659AE005571C2 /* ContactToolbar.h */,
+				D88B0D7618B659AE005571C2 /* ContactToolbar.m */,
 				D8003DAA189DAEAD00F8AAB7 /* gear.png */,
 				D8003DAB189DAEAD00F8AAB7 /* home.png */,
 				D8003DAC189DAEAD00F8AAB7 /* mail.png */,
-				D8003DAD189DAEAD00F8AAB7 /* phone-main.gif */,
 				D8003DAE189DAEAD00F8AAB7 /* phone.png */,
+				D8A0B21318BD4F1C002F884E /* phone-main.png */,
 				D8003DAF189DAEAD00F8AAB7 /* LineView.h */,
 				D8003DB0189DAEAD00F8AAB7 /* LineView.m */,
-				D8003DB1189DAEAD00F8AAB7 /* Item1ViewController.h */,
-				D8003DB2189DAEAD00F8AAB7 /* Item1ViewController.m */,
-				D8003DB3189DAEAD00F8AAB7 /* Item2ViewController.h */,
-				D8003DB4189DAEAD00F8AAB7 /* Item2ViewController.m */,
-				D8003DB5189DAEAD00F8AAB7 /* Item3ViewController.h */,
-				D8003DB6189DAEAD00F8AAB7 /* Item3ViewController.m */,
-				D8003DB7189DAEAD00F8AAB7 /* Item4ViewController.h */,
-				D8003DB8189DAEAD00F8AAB7 /* Item4ViewController.m */,
 				D8003D86189DAE7900F8AAB7 /* Images.xcassets */,
 				D8003DC8189DAF0700F8AAB7 /* phone-icon-retina2.png */,
 				D8003DC9189DAF0700F8AAB7 /* phone-icon-app2.png */,
@@ -289,8 +289,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8003DBE189DAEAD00F8AAB7 /* home.png in Resources */,
+				D8A0B21418BD4F1C002F884E /* phone-main.png in Resources */,
 				D8003DBF189DAEAD00F8AAB7 /* mail.png in Resources */,
-				D8003DC0189DAEAD00F8AAB7 /* phone-main.gif in Resources */,
 				D8003DCB189DAF0700F8AAB7 /* phone-icon-retina2.png in Resources */,
 				D8003DC1189DAEAD00F8AAB7 /* phone.png in Resources */,
 				D8003DCC189DAF0700F8AAB7 /* phone-icon-app2.png in Resources */,
@@ -319,14 +319,14 @@
 				D8003D85189DAE7900F8AAB7 /* AppDelegate.m in Sources */,
 				D8003DB9189DAEAD00F8AAB7 /* MainViewController.m in Sources */,
 				D8003DC2189DAEAD00F8AAB7 /* LineView.m in Sources */,
-				D8003DC5189DAEAD00F8AAB7 /* Item3ViewController.m in Sources */,
 				D8003DBC189DAEAD00F8AAB7 /* IconCell.m in Sources */,
-				D8003DC4189DAEAD00F8AAB7 /* Item2ViewController.m in Sources */,
 				D8003D81189DAE7900F8AAB7 /* main.m in Sources */,
+				D88B0D7718B659AE005571C2 /* ContactToolbar.m in Sources */,
 				D8003DBB189DAEAD00F8AAB7 /* SetViewController.m in Sources */,
 				D8003DBA189DAEAD00F8AAB7 /* SubViewController.m in Sources */,
-				D8003DC6189DAEAD00F8AAB7 /* Item4ViewController.m in Sources */,
-				D8003DC3189DAEAD00F8AAB7 /* Item1ViewController.m in Sources */,
+				D8003DC6189DAEAD00F8AAB7 /* PhoneViewController.m in Sources */,
+				D8003DC3189DAEAD00F8AAB7 /* MailViewController.m in Sources */,
+				D88B0D0E18AE6B51005571C2 /* ContactGroupViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
